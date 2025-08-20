@@ -1,10 +1,9 @@
 {
 "name": "Marvelous Interlude",
   "author": "Patapown",
+  "Appears in MVC FC:AC", 
   "version": "v1.0",
   "manifest_version": 2,
   "music": true,
   "mappings": {}
-  "ignore": [
-    Marvelous Interlude.mp3
-  ]
+  "ignore": []
