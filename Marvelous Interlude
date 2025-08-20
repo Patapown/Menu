@@ -1,0 +1,8 @@
+"name": "Marvelous Interlude",
+  "description": "Changes the Steam Deck menu to match that from MVC FC:AC Collection Gallery.",
+  "author": "Patapown",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
