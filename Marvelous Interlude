@@ -1,7 +1,7 @@
 {
 "name": "Marvelous Interlude",
   "author": "Patapown",
-  "Appears in MVC FC:AC", 
+  "description": "Appears in MVC FC:AC.", 
   "version": "v1.0",
   "manifest_version": 2,
   "music": true,
