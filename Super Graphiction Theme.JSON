@@ -1,0 +1,10 @@
+{
+"name": "Super Graphiction Theme",
+  "description": "Changes the Steam Deck menu to match that from Super Graphiction Theme.",
+  "author": "Patapown",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
